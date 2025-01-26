@@ -1,3 +1,3 @@
-<p style="font-family: Luminari"><p style="font-size: 52px"><p align="center"> <b>WELLSHARD ACADEMY</b> </p>
+<p style="font-family: Luminari"><h1 align=center> <b>WELLSHARD ACADEMY</b> </h1></p>
 
 <p style="font-family: Baskerville"> minezorgas </p>
