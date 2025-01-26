@@ -1,3 +1,3 @@
 <p align="center">
-# WELLSHARD ACADEMY
+<h1> WELLSHARD ACADEMY </h1>
 </p>
