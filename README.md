@@ -1,7 +1,10 @@
-<p style="font-family: Luminari"> 
+<html>
+  <body style="background-color:powderblue;">
+  <p style="font-family: Luminari"> 
 
 <p align="center"><b>WELLSHARD ACADEMY</b></p>
-
-extra text
+<p>extra</p>
 
 </p>
+</body>
+</html>
