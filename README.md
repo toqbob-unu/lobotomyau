@@ -1,5 +1,5 @@
 <p align="center">
-<h2> WELLSHARD ACADEMY </h2>
+<center> WELLSHARD ACADEMY </center>
 </p>
 
 minezorgas
