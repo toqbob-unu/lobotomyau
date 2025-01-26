@@ -1,8 +1,13 @@
 <html>
   <body style="background-color: #070933;">
   <body style="font-family: Luminari"> 
+  Body{
 
-<h1 style="color: #FFFFFF;"><h1 align="center"><b>WELLSHARD ACADEMY</b></h1></h1>
+Color : white;
+
+}
+
+<h1 align="center"><b>WELLSHARD ACADEMY</b></h1>
 <p>extra</p>
 
 </body>
