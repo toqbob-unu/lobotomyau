@@ -1,3 +1,3 @@
-<h1 align="center"> WELLSHARD ACADEMY </h1>.
+<p style="font-family: Luminari"><h1 align="center"> WELLSHARD ACADEMY </h1></p>
 
-<p style="font-family: Brush Script MT"> minezorgas </p>
+<p style="font-family: Baskerville"> minezorgas </p>
