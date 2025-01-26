@@ -1,10 +1,9 @@
 <html>
   <body style="background-color: #070933;">
-<h1>
+ 
   <h1 align="center">
-  <h1 style="font-family: Luminari"><font color=" #FFFFFF"><b>WELLSHARD ACADEMY</b></font></h1>
+    <p style="font-family: Luminari"><font color=" #FFFFFF"><b>WELLSHARD ACADEMY</b></font></p>
   </h1>
-</h1>
 
 <font color=" #FFFFFF"> extra </font>
 
