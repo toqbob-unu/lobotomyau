@@ -15,11 +15,14 @@
 <h2 align="center">
 <p style="font-family: 'Playfair Display', 'Didot';"><font color=" #FFFFFF"> WELCOME TO WELLSHARD! </font> </p>
 </h2>
-&emsp; &emsp; We are excited to have you visit our website and learn more about the vibrant community we’ve built here. At Wellshard Academy, we are dedicated to fostering a supportive and inclusive environment where every student is encouraged to grow, explore, and succeed. Whether you're a prospective family, a current student, or a valued member of our staff, we hope this site helps you find the information you need and inspires you to be a part of our school’s journey.
 
-We invite you to explore our programs, discover the exciting opportunities available to students, and stay up to date with the latest school news and events.
+<font color=" #FFFFFF">&emsp; &emsp; We are excited to have you visit our website and learn more about the vibrant community we’ve built here. At Wellshard Academy, we are dedicated to fostering a supportive and inclusive environment where every student is encouraged to grow, explore, and succeed. Whether you're a prospective family, a current student, or a valued member of our staff, we hope this site helps you find the information you need and inspires you to be a part of our school’s journey.</font>
+
+<font color=" #FFFFFF">We invite you to explore our programs, discover the exciting opportunities available to students, and stay up to date with the latest school news and events.</font>
+
 
 ---
+
 
 <a href="url"><button type="button">About Wellshard</button></a>
 Academics
