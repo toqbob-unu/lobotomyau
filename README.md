@@ -32,13 +32,5 @@
 <a href="url"><button type="button">Alumni</button></a>
 </h1>
 
-<h2>
-<p style="font-family: 'Playfair Display', 'Didot';"><font color=" #FFFFFF"> HISTORY </font> </p>
-</h2>
-
-<p style="font-family: 'Baskerville';"><font color=" #FFFFFF">
-&emsp; &emsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</font> </p>
-
 </body>
 </html>
