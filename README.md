@@ -20,10 +20,7 @@
 
 <p><font color=" #FFFFFF">We invite you to explore our programs, discover the exciting opportunities available to students, and stay up to date with the latest school news and events.</font></p>
 
-
----
-
-
+<h1>
 <a href="url"><button type="button">About Wellshard</button></a>
 <a href="url"><button type="button">Academics</button></a>
 <a href="url"><button type="button">News & Events</button></a>
@@ -33,6 +30,7 @@
 <a href="url"><button type="button">Student Life</button></a>
 <a href="url"><button type="button">Resources & Support</button></a>
 <a href="url"><button type="button">Alumni</button></a>
+</h1>
 
 <h2>
 <p style="font-family: 'Playfair Display', 'Didot';"><font color=" #FFFFFF"> HISTORY </font> </p>
