@@ -16,23 +16,23 @@
 <p style="font-family: 'Playfair Display', 'Didot';"><font color=" #FFFFFF"> WELCOME TO WELLSHARD! </font> </p>
 </h2>
 
-<font color=" #FFFFFF">&emsp; &emsp; We are excited to have you visit our website and learn more about the vibrant community we’ve built here. At Wellshard Academy, we are dedicated to fostering a supportive and inclusive environment where every student is encouraged to grow, explore, and succeed. Whether you're a prospective family, a current student, or a valued member of our staff, we hope this site helps you find the information you need and inspires you to be a part of our school’s journey.</font>
+<p><font color=" #FFFFFF">&emsp; &emsp; We are excited to have you visit our website and learn more about the vibrant community we’ve built here. At Wellshard Academy, we are dedicated to fostering a supportive and inclusive environment where every student is encouraged to grow, explore, and succeed. Whether you're a prospective family, a current student, or a valued member of our staff, we hope this site helps you find the information you need and inspires you to be a part of our school’s journey.</font></p>
 
-<font color=" #FFFFFF">We invite you to explore our programs, discover the exciting opportunities available to students, and stay up to date with the latest school news and events.</font>
+<p><font color=" #FFFFFF">We invite you to explore our programs, discover the exciting opportunities available to students, and stay up to date with the latest school news and events.</font></p>
 
 
 ---
 
 
 <a href="url"><button type="button">About Wellshard</button></a>
-Academics
-News & Events
-Parents & Students
-Admissions
-Contact Information
-Student Life
-Resources & Support
-Alumni
+<a href="url"><button type="button">Academics</button></a>
+<a href="url"><button type="button">News & Events</button></a>
+<a href="url"><button type="button">Parents & Students</button></a>
+<a href="url"><button type="button">Admissions</button></a>
+<a href="url"><button type="button">Contact Information</button></a>
+<a href="url"><button type="button">Student Life</button></a>
+<a href="url"><button type="button">Resources & Support</button></a>
+<a href="url"><button type="button">Alumni</button></a>
 
 <h2>
 <p style="font-family: 'Playfair Display', 'Didot';"><font color=" #FFFFFF"> HISTORY </font> </p>
